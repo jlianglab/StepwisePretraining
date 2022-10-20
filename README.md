@@ -66,6 +66,30 @@ e) Adversarial training ((D)+R)+A reduces annotation costs
 
 
 
+## Pre-trained models
+
+You can download the pretrained models used/developed in our paper as follows:
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Method</th>
+<th valign="bottom">Pretraining Strategy</th>
+<th valign="bottom">model</th>
+
+<tr>
+<td rowspan = "4">Jigsaw</td>
+<td>(D+R)</td><td>((D)+R)</td><td>(D+R+A)</td><td>(((D)+R)+A)</td>
+<td><a href="https://zenodo.org/record/7232320/files/Jigsaw-y-y-n.h5?download=1">download</a></td>
+
+</tr>
+
+
+ 
+</tbody></table>
+
+
+
 ## Acknowledgement
 This research has been supported in part by ASU and Mayo Clinic through a Seed Grant and an Innovation Grant, and in part by the NIH under Award Number R01HL128785. The content is solely the responsi- bility of the authors and does not necessarily represent the official views of the NIH. This work has utilized the GPUs provided in part by the ASU Research Computing and in part by the Extreme Science and Engineering Discovery Environment (XSEDE) funded by the National Science Foundation (NSF) under grant numbers: ACI-1548562, ACI-1928147, and ACI-2005632. The content of this paper is covered by patents pending.
 
