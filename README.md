@@ -2,5 +2,5 @@
 This repository provides a Keras implementation of the Discriminative, Restorative, and Adversarial Learning: Stepwise Incremental Pretraining
 
 
-<p align="center"><img width="50%" src="IMAGE/logo_gif.gif" /></p>
+<p align="center"><img width="30%" src="IMAGE/logo_gif.gif" /></p>
 
