@@ -10,13 +10,13 @@ We extend and reimplemented five prominent self-supervised learning methods and 
 
 The five self-supervised learning methods are Jigsaw, Rubik's Cube & Rubik's Cube++，Rotation, Deep CLustering, TransVW.
 
-<br>
+<p>
 <div>
 <img align=center width="40%" src="IMAGE/Jigsaw.png" /><img align=center width="50%" src="IMAGE/Rubik'sCube.png" />
   <img align=center width="40%" src="IMAGE/Rotation.png" /><img align=center width="50%" src="IMAGE/DeepCluster.png" />
   <img align=left width="90%" src="IMAGE/TransVW.png" />
 </div>
-</br>
+</p>
 
 ## Publication
 <b>Discriminative, Restorative, and Adversarial Learning: Stepwise Incremental Pretraining </b> <br/>
