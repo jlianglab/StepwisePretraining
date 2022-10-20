@@ -1,8 +1,10 @@
 # Discriminative, Restorative, and Adversarial Learning: Stepwise Incremental Pretraining.
 This repository provides a Keras implementation of the Discriminative, Restorative, and Adversarial Learning: Stepwise Incremental Pretraining
 
+We extend and reimplemented five prominent self-supervised learning method and integrate them into a united framework that incorporates three learning components including Discriminative, Restorative, and Adversarial Learning. 
 
-<p align="center"><img width="30%" src="IMAGE/logo_gif.gif" /></p>
+
+<p align="left"><img width="30%" src="IMAGE/logo_gif.gif" /> <img width="30%" src="IMAGE/United.png" /> </p>
 
 
 ## Publication
