@@ -79,11 +79,21 @@ You can download the pretrained models used/developed in our paper as follows:
 
 <tr>
 <td rowspan = "4">Jigsaw</td>
-<td>(D+R)</td><td>((D)+R)</td><td>(D+R+A)</td><td>(((D)+R)+A)</td>
+<td>(D+R)</td>
 <td><a href="https://zenodo.org/record/7232320/files/Jigsaw-y-y-n.h5?download=1">download</a></td>
-
 </tr>
-
+  
+<tr>
+  <td>((D)+R)</td>
+  <td> </td>
+</tr>
+<tr>
+  <td>(D+R+A)</td>
+  <td> </td>
+</tr>
+<tr>
+  <td>(((D)+R)+A)</td>
+<\tr>
 
  
 </tbody></table>
