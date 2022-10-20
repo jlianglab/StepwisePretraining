@@ -4,18 +4,6 @@ This repository provides a Keras implementation of the Discriminative, Restorati
 We extend and reimplemented five prominent self-supervised learning method and integrate them into a united framework that incorporates three learning components including Discriminative, Restorative, and Adversarial Learning. 
 
 
-<table>
-	<tr>
-    	    <td style="border: none">
-        	    <img src="IMAGE/logo_gif.gif" width="200"/>
-      	    </td>
-            <td style="border: none">
-            	<img src="IMAGE/United.png" width="100%"/>
-            </td>
-        </tr>
-</table>
-
-
 <div>
 <img align=center width="20%" src="IMAGE/logo_gif.gif" /><img align=center width="80%" src="IMAGE/United.png" />
 </div>
