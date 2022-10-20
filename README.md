@@ -16,8 +16,9 @@ We extend and reimplemented five prominent self-supervised learning method and i
 </table>
 
 
-
-<p align="top"><img class="image-align-left" width="20%" src="IMAGE/logo_gif.gif" /><img class="image-align-left" width="80%" src="IMAGE/United.png" /></p>
+<div>
+<img align=top width="20%" src="IMAGE/logo_gif.gif" /><img align=top width="80%" src="IMAGE/United.png" />
+</div>
 
 
 
