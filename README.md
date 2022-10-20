@@ -33,7 +33,6 @@ Published in: **Domain Adaptation and Representation Transfer (DART), 2022.**
 ## Major results from our work
 1. We found the optimum pretraining strategy for the United framework
 Stepwise pretraining is always better than training everything together
-
 <div>
   <img align=center width="100%" src="IMAGE/Optimum_pretrain.png" />
 </div>
@@ -41,12 +40,12 @@ Stepwise pretraining is always better than training everything together
 2. We found the effective utilization for pretrained components for target tasks.
 a) For classification tasks, pretrained encoders perform much better than the randomly initialized encoders
 <div>
-  <img align=center width="50%" src="IMAGE/NCC_D.png" /><img align=center width="50%" src="ECC_D.png" />
+  <img align=center width="50%" src="IMAGE/NCC_D.png" /><img align=center width="50%" src="IMAGE/ECC_D.png" />
 </div>
 
 b) For segmentation tasks, the trained encoder also improves performance for most methods. But we also observed some negative transfer due to task mismatches.
 <div>
-  <img align=center width="33%" src="IMAGE/NCS_D.png" /><img align=center width="33%" src="LCS_D.png" /><img align=center width="33%" src="BMS_D.png" />
+  <img align=center width="33%" src="IMAGE/NCS_D.png" /><img align=center width="33%" src="IMAGE/LCS_D.png" /><img align=center width="33%" src="IMAGE/BMS_D.png" />
 </div>
 
 c) For segmentation tasks, we should always transfer pretrained decoders.
