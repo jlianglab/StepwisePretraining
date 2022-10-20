@@ -11,7 +11,7 @@ We extend and reimplemented five prominent self-supervised learning method and i
         	    <img src="IMAGE/logo_gif.gif" width="200"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="IMAGE/United.png" width="80%"/>
+            	<img src="IMAGE/United.png" width="100%"/>
             </td>
         </tr>
     </table>
