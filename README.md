@@ -12,8 +12,8 @@ The five self-supervised learning methods are Jigsaw, Rubik's Cube & Rubik's Cub
 
 <p>
 <div>
-<img align=center width="40%" src="IMAGE/Jigsaw.png" /><img align=center width="50%" src="IMAGE/Rubik'sCube.png" />
-  <img align=center width="40%" src="IMAGE/Rotation.png" /><img align=center width="50%" src="IMAGE/DeepCluster.png" />
+<img align=center width="50%" src="IMAGE/Jigsaw.png" /><img align=center width="50%" src="IMAGE/Rubik'sCube.png" />
+  <img align=center width="50%" src="IMAGE/Rotation.png" /><img align=center width="50%" src="IMAGE/DeepCluster.png" />
   <img align=left width="90%" src="IMAGE/TransVW.png" />
 </div>
 </p>
