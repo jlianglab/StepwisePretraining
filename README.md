@@ -5,6 +5,11 @@ We extend and reimplemented five prominent self-supervised learning method and i
 
 
 <div id="image-table">
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
     <table>
 	    <tr>
     	    <td style="padding:10px">
