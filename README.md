@@ -8,10 +8,10 @@ We extend and reimplemented five prominent self-supervised learning method and i
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="IMAGE/logo_gif.gif" width="200"/>
+        	    <img src="IMAGE/logo_gif.gif" width="30%"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="IMAGE/United.png" width="400"/>
+            	<img src="IMAGE/United.png" width="80%"/>
             </td>
         </tr>
     </table>
