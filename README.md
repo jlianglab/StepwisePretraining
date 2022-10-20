@@ -54,12 +54,12 @@ c) For segmentation tasks, we should always transfer pretrained decoders.
   <img align=center width="33%" src="IMAGE/TransVW_DR.png" /><img align=center width="33%" src="IMAGE/Rotation_DR.png" />
 </div>
 
-4) Adversarial training ((D)+R)+A strengthens learned representation
+d) Adversarial training ((D)+R)+A strengthens learned representation
 <div>
   <img align=center width="100%" src="IMAGE/ALL_DRA.png" />
 </div>
 
-5) Adversarial training ((D)+R)+A reduces annotation costs
+e) Adversarial training ((D)+R)+A reduces annotation costs
 <div>
   <img align=center width="100%" src="IMAGE/Fewer_label.png" />
 </div>
