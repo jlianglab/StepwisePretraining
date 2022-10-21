@@ -141,6 +141,48 @@ You can download the pretrained models used/developed in our paper as follows:
   <td>(((D)+R)+A)</td>
   <td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
 <\tr>
+  
+<tr>
+<td rowspan = "4">Deep Clustering</td>
+<td>(D+R)</td>
+<td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+</tr>
+  
+<tr>
+  <td>((D)+R)</td>
+  <td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+</tr>
+  
+<tr>
+  <td>(D+R+A)</td>
+  <<td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+</tr>
+
+<tr>
+  <td>(((D)+R)+A)</td>
+  <td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+<\tr>
+  
+<tr>
+<td rowspan = "4">TransVW</td>
+<td>(D+R)</td>
+<td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+</tr>
+  
+<tr>
+  <td>((D)+R)</td>
+  <td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+</tr>
+  
+<tr>
+  <td>(D+R+A)</td>
+  <<td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+</tr>
+
+<tr>
+  <td>(((D)+R)+A)</td>
+  <td><a href="https://zenodo.org/record/7232320/files/Rubik-y-y-n.h5?download=1">download</a></td>
+<\tr>
 
  
 </tbody></table>
